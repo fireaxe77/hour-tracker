@@ -1,0 +1,16 @@
+{
+  "poll_seconds": 15,
+  "unknown_minutes": 5,
+  "merge_minutes": 5,
+  "min_session_minutes": 2,
+  "blocklist": [
+    "RiotClientServices.exe", "RiotClientUx.exe", "HYP.exe", "EpicGamesLauncher.exe",
+    "steam.exe", "Discord.exe", "Spotify.exe", "obs64.exe", "explorer.exe",
+    "chrome.exe", "opera.exe", "firefox.exe", "msedge.exe", "Code.exe",
+    "svchost.exe", "csrss.exe", "dwm.exe", "taskmgr.exe", "SearchHost.exe",
+    "ShellExperienceHost.exe", "StartMenuExperienceHost.exe", "ApplicationFrameHost.exe",
+    "LockApp.exe", "sihost.exe", "RuntimeBroker.exe", "SystemSettings.exe",
+    "TextInputHost.exe", "cmd.exe", "powershell.exe", "WindowsTerminal.exe",
+    "conhost.exe", "python.exe", "pythonw.exe"
+  ]
+}

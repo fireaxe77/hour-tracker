@@ -1,0 +1,5 @@
+__pycache__/
+state.json
+totals.json
+tracker.log
+*.tmp
